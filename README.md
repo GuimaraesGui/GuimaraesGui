@@ -1,4 +1,5 @@
 # Olá! Meu nome é Guilherme Guimarães 👋
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.pinimg.com/originals/ee/9f/2d/ee9f2d2913e27587149a6f54e8db4843.jpg)
 
 ## 🚀 A estrada até aqui!
 
@@ -18,8 +19,7 @@ Dai em diante, decidi me dedicar a ferramentas que competem a área de Data Anal
 
 
 # 📈 Github Stats
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuimaraesGui&theme=dark&show_icons=true) | ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuimaraesGui&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) | |
-| -------- | -------- | ------- |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuimaraesGui&theme=dark&show_icons=true)                                                                                         ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuimaraesGui&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <!--
 **GuimaraesGui/GuimaraesGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
