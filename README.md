@@ -1,7 +1,7 @@
 # Olá! Meu nome é Guilherme Guimarães 👋
 
-<div style="float: right; margin-left: 20px;">
-  <img src="https://i.pinimg.com/originals/ee/9f/2d/ee9f2d2913e27587149a6f54e8db4843.jpg" alt="Imagem" width="300"/>
+<div style="float: right; margin-left: 50px;">
+  <img src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1703430535~exp=1703431135~hmac=5a6a9b30466e7d954ccd32039e369dba07753a308794d933dd4f9ddbff5aa96e" alt="Imagem" width="420"/>
 </div>
 
 ## 🚀 A estrada até aqui!
