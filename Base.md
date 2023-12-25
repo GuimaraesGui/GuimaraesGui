@@ -1,4 +1,5 @@
 # Olá! Meu nome é Guilherme Guimarães 👋
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1703436128~exp=1703436728~hmac=cb900b5eacd9925c6d0bf23fe318e47ea24f6116b7fb57bf9a2db1bdec1d7359">
 
 ## 🚀 A estrada até aqui!
 
