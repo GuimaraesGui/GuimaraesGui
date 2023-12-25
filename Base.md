@@ -1,5 +1,5 @@
 # Olá! Meu nome é Guilherme Guimarães 👋
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1703436128~exp=1703436728~hmac=cb900b5eacd9925c6d0bf23fe318e47ea24f6116b7fb57bf9a2db1bdec1d7359">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://media.canva.com/1/image-resize/1/550_550_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS93cE5BUS9NQUY0Qml3cE5BUS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAOkwJ5eVIcHVDnSdaHpcqdMNmQ9PCi9SHk5qjLflKeaO&exp=1703560988&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAABgC5RefCS1DEeH023S2GjQTsOBngL1JQjK7X2PSPOor">
 
 ## 🚀 A estrada até aqui!
 
