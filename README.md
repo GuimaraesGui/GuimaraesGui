@@ -1,5 +1,5 @@
 # Olá! Meu nome é Guilherme Guimarães 👋
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://media.canva.com/1/image-resize/1/550_550_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS93cE5BUS9NQUY0Qml3cE5BUS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAOkwJ5eVIcHVDnSdaHpcqdMNmQ9PCi9SHk5qjLflKeaO&exp=1703560988&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAABgC5RefCS1DEeH023S2GjQTsOBngL1JQjK7X2PSPOor">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://media.canva.com/1/image-resize/1/550_550_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS93cE5BUS9NQUY0Qml3cE5BUS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAALPtWYgeRmQRoltPNzF4ojR4ikycbiRAJ1oY3_KoH8oD&exp=1703910188&x-canva-quality=thumbnail_large&csig=AAAAAAAAAAAAAAAAAAAAAC4VZqI3Zz4UPP1p1wSX1pgv9LUStpONxcbMo2SsYIwY">
 
 ## 🚀 A estrada até aqui!
 
